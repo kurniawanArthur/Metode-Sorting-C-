@@ -1,4 +1,4 @@
-# Metode-Sorting-C-
+# Metode-Sorting-C++
 # Program Sorting Sederhana
 
 ## Deskripsi Program
