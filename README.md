@@ -48,4 +48,4 @@ Pilih metode pengurutan yang akan digunakan(1-11): 11
 
 ## Informasi Tambahan
 
-Program ini dibuat oleh Kurniawan sebagai bagian dari pemenuhan tugas pemrograman kelas P9.
+Program ini dibuat oleh saya Kurniawan Arthur Jarnuzi sebagai bagian dari pemenuhan tugas pemrograman kelas P9.
